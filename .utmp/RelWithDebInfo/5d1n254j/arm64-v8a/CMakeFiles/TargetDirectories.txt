@@ -1,0 +1,8 @@
+G:/UnityProjects/Tetris/.utmp/RelWithDebInfo/5d1n254j/arm64-v8a/CMakeFiles/edit_cache.dir
+G:/UnityProjects/Tetris/.utmp/RelWithDebInfo/5d1n254j/arm64-v8a/CMakeFiles/rebuild_cache.dir
+G:/UnityProjects/Tetris/.utmp/RelWithDebInfo/5d1n254j/arm64-v8a/GameActivity/CMakeFiles/game.dir
+G:/UnityProjects/Tetris/.utmp/RelWithDebInfo/5d1n254j/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+G:/UnityProjects/Tetris/.utmp/RelWithDebInfo/5d1n254j/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+G:/UnityProjects/Tetris/.utmp/RelWithDebInfo/5d1n254j/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+G:/UnityProjects/Tetris/.utmp/RelWithDebInfo/5d1n254j/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+G:/UnityProjects/Tetris/.utmp/RelWithDebInfo/5d1n254j/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
